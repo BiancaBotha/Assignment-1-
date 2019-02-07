@@ -1,4 +1,6 @@
-function FunctionCiaran()
-{
-alert("I am excited for 354 because i enjoy coding!!");
+
+<script>
+function FunctionBianca(){
+   window.alert(I am Excited for INF 354 Because I like to learn new things.);
 }
+</script>
